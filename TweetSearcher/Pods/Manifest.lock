@@ -1,0 +1,17 @@
+PODS:
+  - DCKeyValueObjectMapping (1.5)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - DCKeyValueObjectMapping (~> 1.5)
+  - SDWebImage (~> 3.8)
+
+SPEC CHECKSUMS:
+  DCKeyValueObjectMapping: c2eb5a6529da100b2e49ef6a599663578051f077
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: f2c790efebe9d4fa892ca4745aab415669b0fd11
+
+COCOAPODS: 1.0.1
